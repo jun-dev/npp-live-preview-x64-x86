@@ -6,14 +6,14 @@ Notepad++ Live Edit Plugin x64 x86
 ## How to install this plugin on Notepad++:
 
 1) Download archive https://github.com/jun-dev/npp-live-preview-x64-x86/blob/master/NPP_x64_LivePreview.zip
-2) Move `PreviewHTML_x64.dll` or `PreviewHTML_x64.dll` file to you plugins Notepad++ folder. Default like ''C:\Program files\Notepad++\plugins''
+2) Move `PreviewHTML_x64.dll` or `PreviewHTML_x86.dll` file to you plugins Notepad++ folder. Default like ''C:\Program files\Notepad++\plugins''
 3) Run Notepad++
 4) It's win! Really simple! Happy using :)
 
 ## Как установить плагин для Notepad++:
 
 1) Скачайте архив по этой ссылке https://github.com/jun-dev/npp-live-preview-x64-x86/blob/master/NPP_x64_LivePreview.zip
-2) Переместите файл `PreviewHTML_x64.dll` или `PreviewHTML_x64.dll` в папку с Notepad++. По умолчанию ''C:\Program files\Notepad++\plugins''
+2) Переместите файл `PreviewHTML_x64.dll` или `PreviewHTML_x86.dll` в папку с Notepad++. По умолчанию ''C:\Program files\Notepad++\plugins''
 3) Запустите Notepad++
 4) Это реально просто. Удачи :)
 
