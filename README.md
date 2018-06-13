@@ -17,4 +17,4 @@ Notepad++ Live Edit Plugin x64 x86
 3) Запустите Notepad++
 4) Это реально просто. Удачи :)
 
-http://fossil.2of4.net/npp_preview/raw/npp_preview_ss01.png?name=92e8a0240b8b4c70a02f5ac766cdbabc9e5c3d95&m=image/png
+![hello](http://fossil.2of4.net/npp_preview/raw/npp_preview_ss01.png?name=92e8a0240b8b4c70a02f5ac766cdbabc9e5c3d95&m=image/png)
